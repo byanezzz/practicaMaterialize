@@ -1,0 +1,61 @@
+body {
+  color: #fff;
+}
+header {
+  background-image: url(../img/uno.jpg);
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-size: 100% 100%; 
+}
+
+.titles h2 {
+  font-weight: 500;
+  margin-bottom: 0.2em;
+}
+.titles p {
+  font-weight: 300;
+  margin-top: 0.2em;
+  padding-bottom: 1em;
+}
+.aboutPandas {
+  border-top: 0.9em solid rgb(231, 119, 74);
+  border-bottom: 0.9em solid rgb(231, 119, 74);
+  background-color: rgb(111, 201, 129);
+  margin-top: -7em;
+
+}
+.aboutPandas h3 {
+  padding-top: 1em;
+}
+.mg-b {
+  margin-bottom: 0;
+}
+.paragraphAboutPandas {
+  margin: 3% 0;
+}
+
+.pictures img {
+  width: 100%;
+  border: 0.5em solid #fff;
+}
+#pictureSection {
+  background-image: url(../img/dos.jpg);    
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding-top: 44em;
+}
+#pictureSection>div {
+  padding: 3em 0;
+  background-color: rgb(111, 201, 129);
+  border-top: 0.9em solid rgb(231, 119, 74);
+  border-bottom: 0.9em solid rgb(231, 119, 74);
+}
+#pictureFooter {
+  background-image: url(../img/tres.jpg);    
+  background-repeat: no-repeat;
+  background-size: 100% 100%; 
+  padding-top: 41em;
+}
+.bg-color {
+  background-color: rgb(231, 119, 74);
+}
